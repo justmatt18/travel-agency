@@ -13,6 +13,6 @@ Menu:
 * Gallery 
 * About Us
 
-![Travel Agency Theme](https://octodex.github.com/images/minion.png)
+![Travel Agency Theme](https://github.com/justmatt18/material-design/blob/master/img/sample-page.png)
 
 After finishing this travel agency theme, I am planning to develop this with backend stuff. Maybe I will use Vue-Laravel or using Vue, Express and Node JS.

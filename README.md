@@ -1,2 +1,5 @@
 # material-design
-Material Design using MaterializeCSS
+MaterializeCSS - Material Design 
+
+
+**Travel Agency Theme** using Material Design

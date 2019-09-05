@@ -4,3 +4,20 @@
     width: 90% !important;
     border: #f4f4f4 3px solid !important;
 }
+
+.container-table {
+    display: table;
+    /* width: 100%; */
+} 
+
+.col-cell {
+    display: table-cell;
+}
+
+.fa-4x {
+    margin: 5px 15px;
+}
+
+.section-gallery img {
+    margin: 10px 15px;
+}
